@@ -1,1 +1,3 @@
-this is my first text document
+this is my first text document.
+
+Finally i got to know about git and GitHub usage :)
